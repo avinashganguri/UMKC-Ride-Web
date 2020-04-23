@@ -1,0 +1,17 @@
+{
+  "hosting": [
+    {
+      "app": {
+        "project": "CourtesyShuttle",
+        "target": "build",
+        "configuration": "production",
+        "path": "dist/CourtesyShuttle"
+      },
+      "azureHosting": {
+        "subscription": "4521e17a-e1b6-4e66-a920-ad8e6b20dd3b",
+        "resourceGroupName": "CourtesyShuttle-static-deploy29",
+        "account": "courtesyshuttlestatic"
+      }
+    }
+  ]
+}
